@@ -22,7 +22,7 @@ This project is an IEEE-style research paper analyzing vulnerabilities in user a
 No single security control is enough. A layered approach combining multiple strategies is the most effective way to reduce risk and protect modern systems.
 
 ## Project File
-Access-Control-Vulnerabilities-Analysis.pdf
+[Download the full research paper](Access-Control-Vulnerabilities-Analysis.pdf) 
 
 ## Skills Demonstrated
 - Cybersecurity analysis
